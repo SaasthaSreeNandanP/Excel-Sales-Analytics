@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]((https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_Cutomer%20Net%20Sales%20Performnce_All.pdf))_ 
+    **1.** Create a _[customer performance report](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_Cutomer%20Net%20Sales%20Performnce_All.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_Market%20Performnce_Report.pdf))_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_Market%20Performnce_Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]((https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L_Report.pdf))_ & _[Months]((https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L%20Months_Report.pdf))_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L_Report.pdf)_ & _[Months](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L%20Months_Report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]((https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L%20Markets_Report.pdf))_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SaasthaSreeNandanP/Excel-Sales-Analytics/blob/main/AtliQ_P%26L%20Markets_Report.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
